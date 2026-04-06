@@ -12,6 +12,8 @@ public class App {
 
         System.out.println(new App().getGreeting());
         //System.out.println(Calculator.getPoshlina());
-        new VisGod().game();
+        //new VisGod().game();
+
+        new IP_USN().startProgram();
     }
 }
